@@ -444,5 +444,6 @@ while (coding) {
 *Crafting Digital Experiences Through Code*
 
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/techiekamal21)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://www.codebyart.com)
 
 </div>
